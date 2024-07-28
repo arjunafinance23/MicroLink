@@ -4,5 +4,5 @@
 MicroLink is a FOSS self-hosted alternative to link listing websites. 
 MircoLink is made by Arjuna Finance. 
 
-## Want to Create your MircoLink then fill teh below form
-- [Click Here](https://arjunafinance.vercel.app/contact/)
+## Want to Create your MircoLink then fill the below form 🔽
+> [Click Here](https://arjunafinance.vercel.app/contact/)
